@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.nav-items > ul {
+    display: flex;
+}
+
+.nav-items > ul > li { 
+    list-style: none;
+    padding-right: 20px;
+}
